@@ -24,6 +24,7 @@ Navigate to the project directory:
 cd YOLOv8-Object-Detection
 Install the required dependencies:
 pip install -r requirements.txt
+
 **Usage**
 
 Download YOLOv8 Weights:
@@ -41,11 +42,13 @@ Modify confidence thresholds, frame sizes, or other parameters as needed.
 **Example Output**
 
 The output will display the video feed with detected objects highlighted and labeled with their respective class names and confidence scores.
+
 **License**
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 **Acknowledgements**
+
 The YOLOv8 model by Ultralytics for the object detection framework.
 OpenCV for real-time image processing capabilities.
 
